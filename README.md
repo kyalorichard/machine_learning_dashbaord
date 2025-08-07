@@ -59,7 +59,4 @@ To view the project as a deployed online web app, you can check out with [Heroku
 ## References
 
 This project was inspired by:
-- [Membuat WebApp Machine Learning Interaktif by Afif Akbar](https://www.youtube.com/watch?v=_tbkwDGKfKQ&t=1905s)
-- [Machine Learning Model Dashboard by Himanshu Sharma](https://www.youtube.com/watch?v=i0yrthZyiB8)
-- [Membuat WebApp Machine Learning Interaktif](https://towardsdatascience.com/build-multiple-machine-learning-models-easily-54046f022483)
 - [Streamlit cheat sheet](https://streamlit-cheat-sheet.herokuapp.com/)
